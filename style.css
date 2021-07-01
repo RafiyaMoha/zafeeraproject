@@ -1,0 +1,32 @@
+body
+{
+    text-align: center;
+    background: linear-gradient(#5fbd2a 0%, #61fc0a 100%);
+    
+}
+h1{
+    font-variant: small-caps;
+    font-size: 80px;
+    
+}
+#rea1{
+    font-family: sans-serif;
+    border-style: solid;
+    color:red;
+    
+    border-radius: 300px;
+    font-size: 50px;
+}
+img{
+    height: 350px;
+    
+}
+#reason1{
+    font-size: 30px;
+}
+button{
+    background-color:  color: blue;
+}
+#para{
+    font-size: 25px;
+}
